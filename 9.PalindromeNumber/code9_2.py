@@ -2,7 +2,7 @@ class Solution:
     def isPalindrome(self,x:int) -> bool:
         if x < 0 or (x != 0 and x % 10 ==0):
           #负数及整数
-            return Fasle
+            return False
         s = str(x)
         #字符串
         n = len(s)
@@ -14,6 +14,6 @@ class Solution:
                 L += 1
                 R -= 1
             else:
-                return Fasle
+                return False
         else:
             return True
