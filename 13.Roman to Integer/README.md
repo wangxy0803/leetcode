@@ -2,21 +2,15 @@
 ## EN
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
-Symbol       Value
-
-I             1
-
-V             5
-
-X             10
-
-L             50
-
-C             100
-
-D             500
-
-M             1000
+| Symbol | Value |
+|:-------|:-----:|
+I|1
+V|5
+X|10
+L|50
+C|100
+D|500
+M|1000
 
 For example, 2 is written as II in Roman numeral, just two ones added together. 12 is written as XII, which is simply X + II. The number 27 is written as XXVII, which is XX + V + II.
 
@@ -32,22 +26,15 @@ Given a roman numeral, convert it to an integer.
 
 ## CN
 罗马数字包含以下七种字符: I， V， X， L，C，D 和 M。
-
-字符          数值
-
-I             1
-
-V             5
-
-X             10
-
-L             50
-
-C             100
-
-D             500
-
-M             1000
+| 字符 | 数值 |
+|:-----|:---:|
+I|1
+V|5
+X|10
+L|50
+C|100
+D|500
+M|1000
 
 例如， 罗马数字 2 写做 II ，即为两个并列的 1 。12 写做 XII ，即为 X + II 。 27 写做  XXVII, 即为 XX + V + II 。
 
